@@ -1,0 +1,48 @@
+Header {
+    background-color:rgb(39, 38, 38);
+    justify-content: center;
+    color: white;
+    padding: 5px;
+}
+
+
+.header-item{
+    font-size: 2rem;
+    padding: 5px;
+}
+
+.input-name{
+    padding: 10px;
+}
+
+body{
+    background-color:white;
+    padding: 0;
+    margin: 0;
+}
+.btn-search{
+    background: blue;
+    color: white;
+    width: 60px;
+    height: 30px;
+    border: unset;
+}
+
+table{
+    margin: auto;
+}
+
+th{
+    background: rgb(54, 121, 197);
+    color: white;
+}
+
+footer{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+button{
+    size:;
+}
